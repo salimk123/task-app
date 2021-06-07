@@ -1,0 +1,40 @@
+.nav{
+  background-color:darkolivegreen;
+ }
+
+ .header-nav{
+  background-color:darkolivegreen;
+}
+.nav-item{
+  color: lightcoral;
+}
+.dropdown{
+  color:darkblue;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-right: 80%;
+}
+.task-list{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.list-row{
+  display: flex;
+  justify-content: space-between;
+}
+.login{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.pwd{
+  display: grid;
+  grid-gap: 5px;
+}
+.delete{
+  background-color:darkgreen;
+  color: #FFFFFF;
+}
